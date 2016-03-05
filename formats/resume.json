@@ -1,0 +1,24 @@
+{
+  "basics": {
+    "name": "Paul Moss",
+    "label": "Software Engineer and Product Manager",
+    "class": "Programmer",
+    "summary": "A Product Manager responsible for the creation of a new product in an established company as well as a Software Engineer knowledgeable in many different aspects of creating modern applications. My experience covers all aspects of a product’s needs including oversight of the product development roadmap, evaluating technical architectures against future product goals, developing key components, reviewing legal documents, editing marketing copy, and providing input to overall business strategy.",
+    "website": "http://scorpionresponse.com/",
+    "phone": "614-307-0617",
+    "email": "moss.paul@gmail.com",
+    "picture": "http://scorpionresponse.com/images/headshot.jpg",
+    "location": {
+      "address": "5609 Telluride Bluff",
+      "postalCode": "43081",
+      "city": "Westerville",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": []
+  },
+  "skills": [],
+  "interests": [],
+  "references": 0,
+  "languages": []
+}
