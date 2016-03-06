@@ -42,7 +42,39 @@ Member of the Interlibrary Loan department, serving as the first person responsi
 
 
 
+## GOVERNANCE
 
+### *member*, NISO / UKSG
+
+Member of the KBART Working Group, Phase 2.
+- Addended monthly committee calls.
+- Co-authored an article of the usefulness of the standard with other committe members.
+- Successfully delivered a Phase 2 version of the standard.
+
+
+
+## EDUCATION
+
+### [Rutgers University](http://www.rutgers.edu/) (2000-01 — 2003-01)
+
+BS in Computer Science
+
+
+### [Rutgers University](http://www.rutgers.edu/) (2000-01 — 2003-01)
+
+BS in Physics
+
+
+
+
+
+## WRITING
+
+### [Replacing MARC: Where to Start](http://dx.doi.org/10.3789/isqv25no4.2013.03) (2013-12)
+
+The MARC format for transmittal of bibliographic records has been an unparalleled success for interlibrary communication. This success, however, has also brought about a world that deals exclusively in MARC and is inherently bound by its limitations. Several efforts over the years have been made to break free of these perceived limitations, but these efforts often miss the crucial mis-step of MARC-like thinking: that a library interchange format should be the only way to ingest, expose, or build systems around bibliographic data. In order to begin a transition away from MARC, each function MARC serves should be examined independently and may be replaced by a different technology.
+
+### [Building and Maintaining Knowledge Bases for OpenURL Link Resolvers Processes, Procedures, and Challenges](http://www.against-the-grain.com/2011/03/v-23-1-building-and-maintaining-knowledge-bases-for-openurl-link-resolvers-processes-procedures-and-challenges/) (2011-01)
 
 
 

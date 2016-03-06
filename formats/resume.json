@@ -15,7 +15,18 @@
       "countryCode": "US",
       "region": "Ohio"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ScorpionResponse",
+        "url": "https://github.com/ScorpionResponse"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "paul-moss-8928a71b",
+        "url": "https://www.linkedin.com/in/paul-moss-8928a71b"
+      }
+    ]
   },
   "work": [
     {
@@ -74,8 +85,38 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "startDate": "2000",
+      "endDate": "2003"
+    },
+    {
+      "institution": "Rutgers University",
+      "startDate": "2000",
+      "endDate": "2003"
+    }
+  ],
   "skills": [],
-  "interests": [],
-  "references": 0,
-  "languages": []
+  "publications": [
+    {
+      "name": "Replacing MARC: Where to Start",
+      "publisher": "National Information Standards Organization",
+      "releaseDate": "2013-12",
+      "website": "http://dx.doi.org/10.3789/isqv25no4.2013.03",
+      "summary": "The MARC format for transmittal of bibliographic records has been an unparalleled success for interlibrary communication. This success, however, has also brought about a world that deals exclusively in MARC and is inherently bound by its limitations. Several efforts over the years have been made to break free of these perceived limitations, but these efforts often miss the crucial mis-step of MARC-like thinking: that a library interchange format should be the only way to ingest, expose, or build systems around bibliographic data. In order to begin a transition away from MARC, each function MARC serves should be examined independently and may be replaced by a different technology."
+    },
+    {
+      "name": "Building and Maintaining Knowledge Bases for OpenURL Link Resolvers Processes, Procedures, and Challenges",
+      "publisher": "Against the Grain",
+      "releaseDate": "2011-01-01",
+      "website": "http://www.against-the-grain.com/2011/03/v-23-1-building-and-maintaining-knowledge-bases-for-openurl-link-resolvers-processes-procedures-and-challenges/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ]
 }

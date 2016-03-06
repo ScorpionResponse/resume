@@ -972,12 +972,337 @@
 </wx:sub-section>
 
       
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000011.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA8dJREFUeNrsl+1v2lYUhy8GLo6xsQHjuEA9MI4hTatG2qR+2D8/aR8mVVOytlrLO65DKLOT4DcoOMYMGqlbi7GdJlOjyVf+4mv76Dlvv3scW61W4CGtWAQUAUVAEVAEFAFFQBFQBHQ3IEcft6ShMQdomi2JZQZ+XyC1+VtrfP35NsmIPz5hE/81kNo/HRquZ3jm2mIJkqR4wEG1/VZduPEUhXoDoYV6g8MCgcJ4Y2rm1Nj9GKfrRRoCOo+rI2O50KYLz9cgnAJwP0AERaSR3RGyLlqj7DpCl9Z6xydCZPp/W0PAsfQ52MNx6N1lf75t6ksQ2+Pqz3jPLnNmM8uFFB6GFAl+xWifnLz5/eRV17OOEiSLo58spXLePT8bvjp9+fqPl29UcB9AzqinzomySNij3pl7+xS4w540RTmeAhOpa9wdSGlKJizWKsVaATWHTeW2PJPuuY5kOb7cqIRzyR/I6A40kK0IGQAyopgFyqA9vw2O3ZPGNlE5LKxTW/whD0O45AfkyoORnS7XCje3VG0/Y6tN2QnN86E9nqJMtXhTzDmBJ4NdQvxa+syEdOUfdcV4kYbaWVMLhzNvDS8AJdYzn+ufOQh2CdltTlIAyR9kvxDlgyINtHYrRHE6Z03FzrDrYv7XCuES4muuxnwlHYmSyKbnymAUlDft3VCDebH29Vlx41K3M7sd0C5zmyOpVmGhKb1T/aWrPQF0ScA9dKsk0ClL6SlOeKBZv6+51CMvc5uVFR4RjjaUZ77Sld4XyzsOtXqFAXq/MwkJ5CidvwxYaHA7hR7hqkU4lTvn3qJy1ZZNyFb53aNaofGYsC9kz7xvAc0kWQdMVUT9UpIRqhSij6WZV3jeT2yCFXK+vb1xyZRbk+DxQxtcWkksp3f7un/VonhSGw8u+aP8l/vy2ETwwkLqdAMEEEvZ2loXsrQ/EAYT4NqUP5hhlAaHe1t7SSS21NSxEeb7FIEGpgxWWToeTvjiJFfdbsPHlVwy5OSToTk8uIYSpSdHZSqQKU4IR4eMV91TR4cNMpAphhWEYy9Z8TCJUJXjF8zVoNNVzNly6+l6SGW4RnUf7uzCDPv8Ba302+/Vi4/XW50Yx4g8X+VpKvFNE6NtWVcTxdzM7ShRyOVIdLube6e/nE9BnDr++Sm19f1cM43LieVuKoahCCyDIXca8iGOs+vrm0dkiFL59cWE/gABD2w9OKAwfx3S61/PfXVl5XyygcRiPv6hzNOf6uS9/Ci6zmoVZkx0Vyufkdm27fuK0LpTPjp3zkUC8+rQrfW3AAMAaZzVLhuUv2EAAAAASUVORK5CYII=</w:binData>
+        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000011.png" o:title="fa-justice-scales"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>GOVERNANCE</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>member, </w:t>
+      </w:r>
+
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>NISO / UKSG</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2012-01 — 2014-01</w:t>
+      </w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Member of the KBART Working Group, Phase 2.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Addended monthly committee calls.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Co-authored an article of the usefulness of the standard with other committe members.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Successfully delivered a Phase 2 version of the standard.</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000004.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAaFQTFRFv8HDv8LIv8HGv8HEv8HKv8HMv8jXv8HOv8jZv8TT3dLS2c7Kw8HDwcbM08rIwcHDwcTKz9Lbz8jGy9DXy8bEyczTycTDxcrSx8LDw8jV2dDMxcHD3dLOw8jO1cTDx8rSwc7fzdLbz8LD1czK3dLTx8HD28jDy8HDy8zOz8rI0cLD3crD18jE0cjGyc7Z29LQz8rKxcLEw8LEw8TKy8zQ1djdzcHD1drk09bi09jm0dbizdz/xdLqy9jsxdTswc7i3ePs2eHo2+Ps2e3/z+H/3ev/2/X/3fn/2e//z+H71en/69zT6djS49LO/d7Q6drT4czD59TQ/97O/drM79LG5c7E8ePZ+eHS7eHX8+Pb/+/X/ePS8ePb//Xb9eXZ7+Pd///d/+nT/+HQ///7+evk8fX7///59+fi6/P5//v16ev1/f////nz5efz+////fXs+fv/+/Po9/n/6////evi9///8/n////q//nu4+fz///i+fHw9fX7///18//q4f/q8//i//nm6+/7///o+f//7///4///9+/w8+/w8/P5////rwMOhgAAAWBJREFUSMdj6CIaMIwqHVVKL6XJKVzmqUQoTUvn5mEAAl6LDLxKM8P4+BngQEAwKxu70hxvISR1EMAonJuHrjTfR4QBO2ASdShAKC30FWPAC8Qdi8BKwyUYiACSxUClJVLShFXyWpaCHZCcIoPXBbLmZUjeKpfDoYxZ3qkANQT8+FmcK/zRQ4tJtDIPPVyTAxgUQMGdGYGIA0ZF1BiAKq1SYnbpCgQHSVqkMjBmBawywJ5QcUVXGqXK4tYVAPQoOJ0kV9eAU4MUMBit0ZVG87C616pBYh5sXmaMMjjVYCiNVWdgYKuDBwKjhibcxehKg4Bi7PVYw8sGm6kNWsQo7QpmYPGo1cYWA57oSkMYmLy6GnUwVdpmoysNBbs/OU4XNbL0mjCiABROdpCsEK9vYGgEBMYmpmiRBVHaDPS8PXGZO8GMgYGjhSilicDEzdlKlNIkYOSwtxGlNK29o6OToFsBkPOxfsuGle0AAAAASUVORK5CYIJ=</w:binData>
+        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000004.png" o:title="fa-mortar-board"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>EDUCATION</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://www.rutgers.edu/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Rutgers University</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2000 — 2003</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://www.rutgers.edu/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Rutgers University</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2000 — 2003</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
       
       
-      
-      
-      
-      
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000006.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAI1QTFRFv8HDv8HEv8bVv8jXv8LKv8HGv8HIv8zdv8rZv8TT18bDxcHD2dLd1cbDwczd2cjDxcLKwc7fxcTDx8HDz8TDy9jszdzxy9jmy9jo2ef72+n/1eX56dLI79LG/efT/+3X//Hf///59+/w9fX7//vo/f//9///7///8////fv7//nm8+/w8/H1/fXx////vxL+UwAAAMZJREFUSMft1NkSgjAMBdCL4i7uG+4KiIr2/z/PwghtsYk8+WSez2TuJJlAVC786Z/+mp7OQUUaduHMoypUSpgWnDQtRfc9lK2dhv1LYRcsDT0MCluLGSollK1faSqlsxzm1vXpAKlcbfO+Sn7SQmZ25NNz1WRqb/S2DAl3Td9ASfr0ubDSoLzU6Rep0XRHY0YqKmVjAkYqukNzc/cYqdOWEG9rlTptJ48os3apU6ATi8OUkmV6nJHSpHROG6Wlos8kq4D+Ni/aqw5+HvnsQQAAAABJRU5ErkJggk==</w:binData>
+        <v:shape id="_x0000_i1030" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000006.png" o:title="fa-pencil"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>WRITING</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://dx.doi.org/10.3789/isqv25no4.2013.03">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Replacing MARC: Where to Start</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2013</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>The MARC format for transmittal of bibliographic records has been an unparalleled success for interlibrary communication. This success, however, has also brought about a world that deals exclusively in MARC and is inherently bound by its limitations. Several efforts over the years have been made to break free of these perceived limitations, but these efforts often miss the crucial mis-step of MARC-like thinking: that a library interchange format should be the only way to ingest, expose, or build systems around bibliographic data. In order to begin a transition away from MARC, each function MARC serves should be examined independently and may be replaced by a different technology.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://www.against-the-grain.com/2011/03/v-23-1-building-and-maintaining-knowledge-bases-for-openurl-link-resolvers-processes-procedures-and-challenges/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Building and Maintaining Knowledge Bases for OpenURL Link Resolvers Processes, Procedures, and Challenges</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2011</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000013.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArtJREFUeNrsmP1v0kAYx1soxZW2YOl4s8xkvkyJMZop/380JkuMLpmOxSkvQQasdNCWUks5Wq8WZP4waG9HMpPeL/SSK/e553m+z/NcSdd1ibs0YsQdGxFQBBQBRUARUAQUAUVAEVAE9J8BUUhv2er3by2TpJ2Z7QTahS3u7ZfSQU5PItw67Prx0cXECfkWk39ZPeC34bJRQw5NA4dpKFuJIavekmdI0RpLbCOGBo3+dfOQFLl+vQsWEUHymeI2gJx/w+J19YBZt7p+/O5i4q8VynCvka5wvEjhA5IH6vzvJM7szAxVu3k16CqTxeMOV4BbqZe12g/x1dvHPB4gIPfG9mo6V1pflIAS40s0QRi9sUVM9QFB8DiC2mqenmtzpLyVzOShZ82+PoXBRCfxxJDVVcZgNU0UKofP1kUDaH88avzyebhSBvJ0VY+HFSQ8sp+C6wGdTEtrY5MAnaG1eKSZLAsDvDc24H6sUMKjMvPSO98KT/n8/sOa0ziuu+SP89ldCNjXTThh+SIe2RvNkXnjluuLE5vzbNKTDZiRUuJDCkem1s9rV0jp2fNRJgd/2kMd8iRThU0WCAY0mJiI3QTJZ8te/hoZ0JxMRqKx1DLVtFDbG0ZY+csXPwagXkefI/Kk0hL0kXzl/YEv/tsD2fX+EJWHYQtwA2MwsZfivzWQ2fjaRel+/GQllKGPtK4BBRHP5Hdx9EPK2ED+jp3kCswygZGsmMPS5M8cB1lf4h70kf1TgwqleCEYz6bEqFqL6h4jyTDNJcUIUuUR4yVo44997j/Ac+ugYh4GW6y+eUKjmAm0vY5okaxxuIzNc/egTOSzjmKG952tnA10T2xcIXDN3HgNAsPTTyeodcNvVHJPDyuBiYLcy4DZPDvpaBaK3BLi/vMXEh9CC8EvisDQLBCqriYYngl7z/otwABxHQzMzw8ozAAAAABJRU5ErkJggg==</w:binData>
+        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000013.png" o:title="fa-book"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>READING</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+
+</wx:sub-section>
+
       
       
       
