@@ -17,6 +17,63 @@
     },
     "profiles": []
   },
+  "work": [
+    {
+      "company": "OCLC",
+      "website": "http://oclc.org/",
+      "position": "Product Manager",
+      "startDate": "2009",
+      "endDate": "2012-12-20",
+      "summary": "Responsible for leading multiple teams of technical and non-technical staff to build a new product within the company that manages electronic resources (electronic journals and ebooks) for libraries.",
+      "highlights": [
+        "First and only Product Manager for the WorldCat knowledge base, a product designed to manage the electronic resources in a library and sensibly integrate those resources into other products.",
+        "Managed team of 11 support and development staff responsible for the ETL (Extract, Transform, Load) process which gathers all data used to drive the service.",
+        "Worked closely with developers to define requirements and design of the application from the ground up.",
+        "Significant work on the business strategy to guide a company primarily focused on printed materials into becoming a viable competitor in the market for electronic resource management systems.",
+        "Responsible for ensuring all related departments produce work in alignment with overall product strategy and goals. This includes reviewing legal documents, marketing copy, training videos, product documentation, and business to business deals.",
+        "Created a suite of data gathering and reporting processes in Python to be able to derive information about product usage and identify improvements for particular customers based on their configuration.",
+        "Designed and implemented several data loading tools responsible for ETL tasks which have run continuously for several years."
+      ]
+    },
+    {
+      "company": "OCLC",
+      "website": "http://oclc.org/",
+      "position": "Lead Software Engineer",
+      "startDate": "2008",
+      "endDate": "2009",
+      "summary": "Lead Java Enginneer for the WorldCat Link Manager product.",
+      "highlights": [
+        "Determined significant aspects of product strategy including which features to develop at any given time.",
+        "Responsible for Linux server maintenance and production support of the application.",
+        "Served as second line customer support."
+      ]
+    },
+    {
+      "company": "OCLC",
+      "website": "http://oclc.org/",
+      "position": "Senior Product Support Specialist",
+      "startDate": "2005-05-05",
+      "endDate": "2008",
+      "summary": "The single person responsible for all customer support of 200+ customers.",
+      "highlights": [
+        "Single point of contact for all customer support for 200+ customers.",
+        "During this period the number of customers grew from 20 to 200. Throughout I improved the quality of support I provided and still kept the support process sustainable for a single person to accomplish without much involvement from development staff.",
+        "Worked closely with our data production team to build our in-house developed Perl ETL process for gathering third party metadata."
+      ]
+    },
+    {
+      "company": "Princeton University Library",
+      "website": "http://library.princeton.edu/",
+      "position": "Senior Bibliographic Specialist",
+      "startDate": "2001",
+      "endDate": "2005-04",
+      "summary": "Member of the Interlibrary Loan department, serving as the first person responsible for receiving requests from students and faculty for materials not available in our library.",
+      "highlights": [
+        "Provided technical support for other department members on our ILLiad (software for managing Interlibrary Loan requests) installation as well as general computer support.",
+        "Created a suite of statistics and reports in a Microsoft Access database and an ASP.NET web interface."
+      ]
+    }
+  ],
   "skills": [],
   "interests": [],
   "references": 0,
