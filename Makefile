@@ -8,4 +8,4 @@ validate:
 	hackmyresume VALIDATE resume.json
 
 formats:
-	hackmyresume BUILD resume.json TO formats/resume.all -t modern
+	hackmyresume BUILD resume.json TO formats/resume.all -t modern --pdf wkhtmltopdf
